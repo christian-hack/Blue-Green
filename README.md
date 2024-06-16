@@ -1,4 +1,4 @@
-# My React Web Application
+# Blue/Green Deployment Strategy
 
 Welcome to my awesome React web application! This document provides a deeper insight into how the application works and its various components.
 
